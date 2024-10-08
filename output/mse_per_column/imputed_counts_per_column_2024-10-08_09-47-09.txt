@@ -1,0 +1,31 @@
+P.A. Sistólica: 7
+P.A. Diastólica: 7
+FRECUENCIA CARDIACA: 8
+ Glasgow: 8
+Glucosa: 13
+Hb glicosilada A1C: 15
+Colesterol Total: 14
+Triglicéridos: 14
+LDL: 15
+HDL: 14
+Hematocrito: 1
+Hemoglobina: 1
+VCM: 1
+HCM: 1
+VHS: 54
+Plaquetas: 1
+INR: 6
+Conteo Globulos Blancos: 1
+Proteina C Reactiva: 9
+Nitrógeno Ureico: 2
+Uremia: 2
+Creatinina: 1
+TTPA (tiempo  de tromboplastina activada): 11
+TP (Tiempo de protrombina): 6
+Ion Sodio: 1
+Ion Potasio: 1
+Cloruro: 1
+Fosfatasa Alcalina: 10
+Gamma Glutamil: 10
+Transaminasa Piruvica: 9
+Transaminasa Oxalica: 10

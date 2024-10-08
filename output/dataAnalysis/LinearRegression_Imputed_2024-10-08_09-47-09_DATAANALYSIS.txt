@@ -1,0 +1,372 @@
+Análisis de los datos imputados de la columna P.A. Sistólica:
+Valor máximo Imputado:  157.401
+Valor mínimo Imputado:  153.217
+Valor promedio Imputado:  155.379
+Varianza de Datos Imputados:  1.468
+-------------------------------------
+Análisis de los datos imputados de la columna P.A. Diastólica:
+Valor máximo Imputado:  88.046
+Valor mínimo Imputado:  86.709
+Valor promedio Imputado:  87.400
+Varianza de Datos Imputados:  0.150
+-------------------------------------
+Análisis de los datos imputados de la columna FRECUENCIA CARDIACA:
+Valor máximo Imputado:  81.371
+Valor mínimo Imputado:  78.096
+Valor promedio Imputado:  79.783
+Varianza de Datos Imputados:  0.899
+-------------------------------------
+Análisis de los datos imputados de la columna  Glasgow:
+Valor máximo Imputado:  13.929
+Valor mínimo Imputado:  13.587
+Valor promedio Imputado:  13.748
+Varianza de Datos Imputados:  0.009
+-------------------------------------
+Análisis de los datos imputados de la columna Glucosa:
+Valor máximo Imputado:  173.711
+Valor mínimo Imputado:  133.153
+Valor promedio Imputado:  154.613
+Varianza de Datos Imputados:  140.789
+-------------------------------------
+Análisis de los datos imputados de la columna Hb glicosilada A1C:
+Valor máximo Imputado:  7.445
+Valor mínimo Imputado:  6.243
+Valor promedio Imputado:  6.811
+Varianza de Datos Imputados:  0.110
+-------------------------------------
+Análisis de los datos imputados de la columna Colesterol Total:
+Valor máximo Imputado:  161.104
+Valor mínimo Imputado:  142.994
+Valor promedio Imputado:  152.002
+Varianza de Datos Imputados:  25.522
+-------------------------------------
+Análisis de los datos imputados de la columna Triglicéridos:
+Valor máximo Imputado:  142.829
+Valor mínimo Imputado:  114.514
+Valor promedio Imputado:  128.274
+Varianza de Datos Imputados:  60.714
+-------------------------------------
+Análisis de los datos imputados de la columna LDL:
+Valor máximo Imputado:  94.896
+Valor mínimo Imputado:  81.097
+Valor promedio Imputado:  87.948
+Varianza de Datos Imputados:  15.394
+-------------------------------------
+Análisis de los datos imputados de la columna HDL:
+Valor máximo Imputado:  41.221
+Valor mínimo Imputado:  40.092
+Valor promedio Imputado:  40.683
+Varianza de Datos Imputados:  0.095
+-------------------------------------
+Análisis de los datos imputados de la columna Hematocrito:
+Valor máximo Imputado:  40.187
+Valor mínimo Imputado:  40.109
+Valor promedio Imputado:  40.160
+Varianza de Datos Imputados:  0.000
+-------------------------------------
+Análisis de los datos imputados de la columna Hemoglobina:
+Valor máximo Imputado:  13.583
+Valor mínimo Imputado:  13.415
+Valor promedio Imputado:  13.531
+Varianza de Datos Imputados:  0.002
+-------------------------------------
+Análisis de los datos imputados de la columna VCM:
+Valor máximo Imputado:  88.514
+Valor mínimo Imputado:  87.934
+Valor promedio Imputado:  88.308
+Varianza de Datos Imputados:  0.029
+-------------------------------------
+Análisis de los datos imputados de la columna HCM:
+Valor máximo Imputado:  29.932
+Valor mínimo Imputado:  29.426
+Valor promedio Imputado:  29.752
+Varianza de Datos Imputados:  0.025
+-------------------------------------
+Análisis de los datos imputados de la columna VHS:
+Valor máximo Imputado:  29.558
+Valor mínimo Imputado:  10.287
+Valor promedio Imputado:  19.960
+Varianza de Datos Imputados:  31.451
+-------------------------------------
+Análisis de los datos imputados de la columna Plaquetas:
+Valor máximo Imputado:  238.518
+Valor mínimo Imputado:  238.483
+Valor promedio Imputado:  238.505
+Varianza de Datos Imputados:  0.000
+-------------------------------------
+Análisis de los datos imputados de la columna INR:
+Valor máximo Imputado:  1.202
+Valor mínimo Imputado:  1.141
+Valor promedio Imputado:  1.172
+Varianza de Datos Imputados:  0.000
+-------------------------------------
+Análisis de los datos imputados de la columna Conteo Globulos Blancos:
+Valor máximo Imputado:  9.685
+Valor mínimo Imputado:  9.421
+Valor promedio Imputado:  9.523
+Varianza de Datos Imputados:  0.006
+-------------------------------------
+Análisis de los datos imputados de la columna Proteina C Reactiva:
+Valor máximo Imputado:  18.076
+Valor mínimo Imputado:  15.518
+Valor promedio Imputado:  16.907
+Varianza de Datos Imputados:  0.610
+-------------------------------------
+Análisis de los datos imputados de la columna Nitrógeno Ureico:
+Valor máximo Imputado:  22.344
+Valor mínimo Imputado:  19.451
+Valor promedio Imputado:  20.773
+Varianza de Datos Imputados:  0.795
+-------------------------------------
+Análisis de los datos imputados de la columna Uremia:
+Valor máximo Imputado:  47.778
+Valor mínimo Imputado:  41.614
+Valor promedio Imputado:  44.485
+Varianza de Datos Imputados:  3.818
+-------------------------------------
+Análisis de los datos imputados de la columna Creatinina:
+Valor máximo Imputado:  1.631
+Valor mínimo Imputado:  0.763
+Valor promedio Imputado:  1.281
+Varianza de Datos Imputados:  0.068
+-------------------------------------
+Análisis de los datos imputados de la columna TTPA (tiempo  de tromboplastina activada):
+Valor máximo Imputado:  28.684
+Valor mínimo Imputado:  28.239
+Valor promedio Imputado:  28.463
+Varianza de Datos Imputados:  0.016
+-------------------------------------
+Análisis de los datos imputados de la columna TP (Tiempo de protrombina):
+Valor máximo Imputado:  13.191
+Valor mínimo Imputado:  12.522
+Valor promedio Imputado:  12.868
+Varianza de Datos Imputados:  0.040
+-------------------------------------
+Análisis de los datos imputados de la columna Ion Sodio:
+Valor máximo Imputado:  136.059
+Valor mínimo Imputado:  135.853
+Valor promedio Imputado:  135.979
+Varianza de Datos Imputados:  0.005
+-------------------------------------
+Análisis de los datos imputados de la columna Ion Potasio:
+Valor máximo Imputado:  4.009
+Valor mínimo Imputado:  4.004
+Valor promedio Imputado:  4.006
+Varianza de Datos Imputados:  0.000
+-------------------------------------
+Análisis de los datos imputados de la columna Cloruro:
+Valor máximo Imputado:  103.317
+Valor mínimo Imputado:  102.859
+Valor promedio Imputado:  103.033
+Varianza de Datos Imputados:  0.024
+-------------------------------------
+Análisis de los datos imputados de la columna Fosfatasa Alcalina:
+Valor máximo Imputado:  101.972
+Valor mínimo Imputado:  87.059
+Valor promedio Imputado:  94.703
+Varianza de Datos Imputados:  21.062
+-------------------------------------
+Análisis de los datos imputados de la columna Gamma Glutamil:
+Valor máximo Imputado:  52.426
+Valor mínimo Imputado:  33.565
+Valor promedio Imputado:  43.521
+Varianza de Datos Imputados:  34.030
+-------------------------------------
+Análisis de los datos imputados de la columna Transaminasa Piruvica:
+Valor máximo Imputado:  25.173
+Valor mínimo Imputado:  23.329
+Valor promedio Imputado:  24.262
+Varianza de Datos Imputados:  0.330
+-------------------------------------
+Análisis de los datos imputados de la columna Transaminasa Oxalica:
+Valor máximo Imputado:  28.998
+Valor mínimo Imputado:  25.784
+Valor promedio Imputado:  27.465
+Varianza de Datos Imputados:  0.969
+-------------------------------------
+Análisis de datos originales de la columna P.A. Sistólica:
+Valor máximo original:  279.000
+Valor mínimo original :  78.000
+Valor promedio original:  155.334
+Varianza original :  937.459
+-------------------------------------
+Análisis de datos originales de la columna P.A. Diastólica:
+Valor máximo original:  188.000
+Valor mínimo original :  37.000
+Valor promedio original:  87.385
+Varianza original :  346.934
+-------------------------------------
+Análisis de datos originales de la columna FRECUENCIA CARDIACA:
+Valor máximo original:  172.000
+Valor mínimo original :  36.000
+Valor promedio original:  79.646
+Varianza original :  316.713
+-------------------------------------
+Análisis de datos originales de la columna  Glasgow:
+Valor máximo original:  15.000
+Valor mínimo original :  3.000
+Valor promedio original:  13.760
+Varianza original :  4.686
+-------------------------------------
+Análisis de datos originales de la columna Glucosa:
+Valor máximo original:  680.500
+Valor mínimo original :  41.000
+Valor promedio original:  153.017
+Varianza original :  6267.916
+-------------------------------------
+Análisis de datos originales de la columna Hb glicosilada A1C:
+Valor máximo original:  14.800
+Valor mínimo original :  4.200
+Valor promedio original:  6.842
+Varianza original :  3.449
+-------------------------------------
+Análisis de datos originales de la columna Colesterol Total:
+Valor máximo original:  433.000
+Valor mínimo original :  62.000
+Valor promedio original:  151.925
+Varianza original :  2132.662
+-------------------------------------
+Análisis de datos originales de la columna Triglicéridos:
+Valor máximo original:  626.000
+Valor mínimo original :  40.000
+Valor promedio original:  128.565
+Varianza original :  4807.582
+-------------------------------------
+Análisis de datos originales de la columna LDL:
+Valor máximo original:  350.000
+Valor mínimo original :  12.000
+Valor promedio original:  87.763
+Varianza original :  1789.807
+-------------------------------------
+Análisis de datos originales de la columna HDL:
+Valor máximo original:  350.000
+Valor mínimo original :  18.000
+Valor promedio original:  40.658
+Varianza original :  425.956
+-------------------------------------
+Análisis de datos originales de la columna Hematocrito:
+Valor máximo original:  56.800
+Valor mínimo original :  19.100
+Valor promedio original:  40.146
+Varianza original :  26.233
+-------------------------------------
+Análisis de datos originales de la columna Hemoglobina:
+Valor máximo original:  20.000
+Valor mínimo original :  6.100
+Valor promedio original:  13.496
+Varianza original :  3.483
+-------------------------------------
+Análisis de datos originales de la columna VCM:
+Valor máximo original:  123.900
+Valor mínimo original :  8.300
+Valor promedio original:  88.215
+Varianza original :  36.419
+-------------------------------------
+Análisis de datos originales de la columna HCM:
+Valor máximo original:  44.000
+Valor mínimo original :  16.700
+Valor promedio original:  29.672
+Varianza original :  4.613
+-------------------------------------
+Análisis de datos originales de la columna VHS:
+Valor máximo original:  89.000
+Valor mínimo original :  2.000
+Valor promedio original:  19.730
+Varianza original :  187.100
+-------------------------------------
+Análisis de datos originales de la columna Plaquetas:
+Valor máximo original:  630.000
+Valor mínimo original :  47.000
+Valor promedio original:  238.501
+Varianza original :  5513.297
+-------------------------------------
+Análisis de datos originales de la columna INR:
+Valor máximo original:  6.330
+Valor mínimo original :  0.850
+Valor promedio original:  1.171
+Varianza original :  0.229
+-------------------------------------
+Análisis de datos originales de la columna Conteo Globulos Blancos:
+Valor máximo original:  67.800
+Valor mínimo original :  3.900
+Valor promedio original:  9.556
+Varianza original :  14.366
+-------------------------------------
+Análisis de datos originales de la columna Proteina C Reactiva:
+Valor máximo original:  327.600
+Valor mínimo original :  1.000
+Valor promedio original:  16.764
+Varianza original :  1221.344
+-------------------------------------
+Análisis de datos originales de la columna Nitrógeno Ureico:
+Valor máximo original:  149.300
+Valor mínimo original :  5.600
+Valor promedio original:  20.995
+Varianza original :  119.138
+-------------------------------------
+Análisis de datos originales de la columna Uremia:
+Valor máximo original:  319.500
+Valor mínimo original :  3.300
+Valor promedio original:  44.901
+Varianza original :  548.476
+-------------------------------------
+Análisis de datos originales de la columna Creatinina:
+Valor máximo original:  140.000
+Valor mínimo original :  0.400
+Valor promedio original:  1.205
+Varianza original :  23.779
+-------------------------------------
+Análisis de datos originales de la columna TTPA (tiempo  de tromboplastina activada):
+Valor máximo original:  176.100
+Valor mínimo original :  16.600
+Valor promedio original:  28.464
+Varianza original :  68.311
+-------------------------------------
+Análisis de datos originales de la columna TP (Tiempo de protrombina):
+Valor máximo original:  78.000
+Valor mínimo original :  9.400
+Valor promedio original:  12.856
+Varianza original :  29.628
+-------------------------------------
+Análisis de datos originales de la columna Ion Sodio:
+Valor máximo original:  163.000
+Valor mínimo original :  81.000
+Valor promedio original:  135.951
+Varianza original :  14.623
+-------------------------------------
+Análisis de datos originales de la columna Ion Potasio:
+Valor máximo original:  6.700
+Valor mínimo original :  2.100
+Valor promedio original:  4.007
+Varianza original :  0.231
+-------------------------------------
+Análisis de datos originales de la columna Cloruro:
+Valor máximo original:  130.000
+Valor mínimo original :  76.000
+Valor promedio original:  103.100
+Varianza original :  17.681
+-------------------------------------
+Análisis de datos originales de la columna Fosfatasa Alcalina:
+Valor máximo original:  413.000
+Valor mínimo original :  30.000
+Valor promedio original:  94.482
+Varianza original :  1255.532
+-------------------------------------
+Análisis de datos originales de la columna Gamma Glutamil:
+Valor máximo original:  371.000
+Valor mínimo original :  7.000
+Valor promedio original:  42.891
+Varianza original :  2072.783
+-------------------------------------
+Análisis de datos originales de la columna Transaminasa Piruvica:
+Valor máximo original:  777.000
+Valor mínimo original :  4.000
+Valor promedio original:  24.248
+Varianza original :  1136.603
+-------------------------------------
+Análisis de datos originales de la columna Transaminasa Oxalica:
+Valor máximo original:  1352.000
+Valor mínimo original :  7.000
+Valor promedio original:  27.382
+Varianza original :  2679.500
+-------------------------------------
